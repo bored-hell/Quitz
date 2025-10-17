@@ -1,0 +1,102 @@
+[
+ {
+  "questionText": "In Java/C#, what keyword is used to stop the execution of a switch block?",
+  "options": [
+   "break",
+   "exit",
+   "stop",
+   "return"
+  ],
+  "correctAnswerIdx": 0
+ },
+ {
+  "questionText": "Which operator is used to access the value at the address held by a pointer in C/C++?",
+  "options": [
+   "&",
+   "->",
+   ".",
+   "*"
+  ],
+  "correctAnswerIdx": 3
+ },
+ {
+  "questionText": "Which concept allows a single function name to have multiple implementations in C++ or Java?",
+  "options": [
+   "Inheritance",
+   "Polymorphism",
+   "Encapsulation",
+   "Abstraction"
+  ],
+  "correctAnswerIdx": 1
+ },
+ {
+  "questionText": "What is the size of a char variable in most modern C/C++ implementations (in bytes)?",
+  "options": [
+   "2",
+   "1",
+   "4",
+   "8"
+  ],
+  "correctAnswerIdx": 1
+ },
+ {
+  "questionText": "Which file extension is typically used for header files in C and C++?",
+  "options": [
+   ".cpp",
+   ".c",
+   ".h",
+   ".asm"
+  ],
+  "correctAnswerIdx": 2
+ },
+ {
+  "questionText": "In C#, what access modifier restricts access to only the class itself and deriving classes?",
+  "options": [
+   "public",
+   "private",
+   "protected",
+   "internal"
+  ],
+  "correctAnswerIdx": 2
+ },
+ {
+  "questionText": "What does main return by default in a standard C program?",
+  "options": [
+   "int",
+   "void",
+   "char",
+   "bool"
+  ],
+  "correctAnswerIdx": 0
+ },
+ {
+  "questionText": "In C++, which stream object is commonly used for outputting data to the console?",
+  "options": [
+   "cin",
+   "cerr",
+   "clog",
+   "cout"
+  ],
+  "correctAnswerIdx": 3
+ },
+ {
+  "questionText": "In C#, which type is used for storing single Unicode characters?",
+  "options": [
+   "String",
+   "short",
+   "byte",
+   "char"
+  ],
+  "correctAnswerIdx": 3
+ },
+ {
+  "questionText": "What is the final method called by the Garbage Collector before memory is reclaimed in Java?",
+  "options": [
+   "dispose()",
+   "finalize()",
+   "delete()",
+   "cleanup()"
+  ],
+  "correctAnswerIdx": 1
+ }
+]
